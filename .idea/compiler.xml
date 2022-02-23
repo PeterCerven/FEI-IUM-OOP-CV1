@@ -9,5 +9,8 @@
         <module name="FEI-IUM-OOP-CV1" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="FEI-IUM-OOP-CV1" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
