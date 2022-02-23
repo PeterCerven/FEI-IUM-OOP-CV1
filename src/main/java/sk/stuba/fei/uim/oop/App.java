@@ -3,6 +3,6 @@ package sk.stuba.fei.uim.oop;
 public class App {
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("String");
+        System.out.println("test2");
     }
 }
